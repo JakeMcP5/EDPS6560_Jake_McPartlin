@@ -1,0 +1,25 @@
+:root {
+    --main-font-primary: san-serif;
+    --main-font-secondary: raleway;
+}
+
+#name {
+    font-size: 50px;
+    font-family: var(--main-font-primary);
+    color: darkseagreen;
+    text-shadow: 2px 2px dimgrey;
+}
+
+#headline {
+    font-family: var(--main-font-secondary);
+    color: dimgrey;
+    text-align: center;
+}
+
+{
+    background-color: antiquewhite
+}
+.container-fluid {
+    background-image:url("img/Project-1%20(1).png");
+    background-position: center
+}
